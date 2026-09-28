@@ -6,4 +6,7 @@
 /src/generated
 *.log
 .DS_Store
-Thumbs.db"
+Thumbs.db
+.agents/
+.claude/
+.windsurf/
